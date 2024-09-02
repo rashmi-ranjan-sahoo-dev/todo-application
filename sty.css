@@ -20,18 +20,18 @@ body{
     /* box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); Subtle shadow for depth */
     position: absolute;
     top: 30px;
-    left: 300px;
-    font-size: 90px;
+    left: 450px;
+    /* font-size: 50px; */
 }
 
 .header h1 {
     margin: 0;
-    font-size: 36px;
+    font-size: 60x;
 }
 
 .header p {
     margin: 5px 0 0;
-    font-size: 18px;
+    font-size: 30px;
     color: #FFEB3B; /* Bright yellow for the subheading */
 }
 
@@ -96,8 +96,8 @@ body{
 }
 .container .addlist .addbtn:active{
     font-size: 15px;
-   box-shadow:  10px 10px 20px rgba(242, 158, 158, 0.5),  /* First shadow */
-    -10px -10px 30px rgba(242, 158, 158, 0.5); /* Second shadow, different direction */
+   box-shadow:  10px 10px 20px rgba(16, 25, 148, 0.5),  /* First shadow */
+    -10px -10px 30px rgba(16, 25, 148, 0.5); /* Second shadow, different direction */
 }
 .box{
     position: relative;
