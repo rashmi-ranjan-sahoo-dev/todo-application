@@ -1,1 +1,1 @@
-this is a todo application
+todo application
